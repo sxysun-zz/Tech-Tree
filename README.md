@@ -25,3 +25,6 @@
 * visualization of technology tree (map)
 * shortest path according to word relation
 * yeah you can research accordingly
+
+### Functional Design
+[see this passage](https://www.jianshu.com/p/2a539334eafa)
