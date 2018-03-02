@@ -1,5 +1,8 @@
 # Tech-Tree
 
+### this project does not have a front end engineer so I cannot progress much
+* if you know front-end especially D3.js we should collaborate! (for I do not know front-end stuff)
+
 ### Have you ever played Stellaris?
 * Transcendental Republic
 * bright stellarist +1000
